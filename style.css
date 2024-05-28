@@ -4,6 +4,10 @@ body {
 
 }
 
+.nothing {
+    opacity: 1;
+}
+
 .nav-div {
     height: 60px;
     margin: 0px !important;

@@ -68,7 +68,7 @@ body {
 }
 
 .nav-div ul li a:hover {
-color: red;
+    color: red;
 transition: 0.5s;
 }
 
